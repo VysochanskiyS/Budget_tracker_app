@@ -1,1 +1,1 @@
-web:node task_for_job.js
+web:node task-for-test.js
