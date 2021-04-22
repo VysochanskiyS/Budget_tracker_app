@@ -1,1 +1,1 @@
-web:npm start
+web:node task_for_job.js
